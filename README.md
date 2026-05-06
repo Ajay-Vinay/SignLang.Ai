@@ -49,6 +49,7 @@ pip install mediapipe opencv-python numpy matplotlib scikit-learn
 ## Collabrators
 - Harsh Choubey: Harshchoubey55 (git username), harshcy55@gmail.com (mail ID)
 - Neha Singh: Miuchan24 (git username), noctis24x@gmail.com (mail ID)
+- Sagnik Gangopadhyay: HawkCodeZ (github), amayamix24@gmail.com (mail ID)
 
 ## Credits
 
